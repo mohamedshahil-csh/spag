@@ -30,21 +30,24 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^4.1.4
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
-  http: ^0.13.3  # Add http package for making HTTP requests
-  intl: ^0.17.0  # Add intl package for internationalization and localization
+  http: ^1.2.1  # Add http package for making HTTP requests
+  intl: ^0.19.0  # Add intl package for internationalization and localization
   logger: ^2.1.0  # Add logger package for logging
   url_launcher: ^6.0.12  
   get_storage: ^2.0.3 
+  flutter_native_splash: ^2.4.0
+  smooth_page_indicator: ^1.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  get: ^4.1.4
+  
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -70,6 +73,9 @@ flutter:
     - assets/logos/lightlogo.png
     - assets/logos/google.png
     - assets/logos/facebook.png
+    - assets/images/on_boarding_images/sammy-line-cool.gif
+    - assets/images/on_boarding_images/sammy-line-delivery.gif
+    - assets/images/on_boarding_images/sammy-line-ontheway-delivery.gif
     - assets/icons/brands/
     - assets/images/
 

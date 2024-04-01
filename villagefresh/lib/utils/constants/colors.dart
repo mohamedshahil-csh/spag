@@ -13,7 +13,7 @@ class AppColors {
     colors: [
       Color(0xffff9a9e),
       Color(0xfffad0c4),
-      Color(0xfffad0c4)
+      Color(0xfffad0c4),
     ]
   );
   
