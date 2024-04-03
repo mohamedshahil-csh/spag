@@ -76,7 +76,7 @@ flutter:
     - assets/images/on_boarding_images/sammy-line-cool.gif
     - assets/images/on_boarding_images/sammy-line-delivery.gif
     - assets/images/on_boarding_images/sammy-line-ontheway-delivery.gif
-    - assets/icons/brands/
+    # - assets/icons/brands/
     - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
