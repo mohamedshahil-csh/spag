@@ -17,7 +17,7 @@ class AppTexts {
   static const String homeAppbarSubTitle = "Village Fresh";
 
   //login
-  static const String loginTitle = "Welcome Back";
+  static const String loginTitle = "Welcome Bck";
   static const String loginSubTitle = "Explore the SPAG world";
 
   //login form text
